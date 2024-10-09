@@ -53,6 +53,13 @@ p {
     margin-bottom: 20px;
 }
 
+#sad-cat {
+    display:block;
+    margin: 0 auto;
+    max-width: 300px;
+    height: auto;
+}
+
 /* Three.js Canvas */
 #bgCanvas {
     position: fixed;
